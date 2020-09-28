@@ -1,0 +1,12 @@
+header {
+  height: 100px;  
+
+  padding: 10px;
+  background: url("https://via.placeholder.com/1000x100.png") no-repeat  ; 
+  background-size: cover;
+}
+
+footer {
+  width: 100%; 
+  padding: 20px;
+}
