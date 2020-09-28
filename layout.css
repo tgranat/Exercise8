@@ -1,16 +1,9 @@
 header {
   height: 150px;  
-
-
   background: url("images/coffee.jpg") no-repeat  ; 
   background-size: cover;
   font-family: 'Caveat';
   font-size: 100px;
-    color: white;
+  color: white;
   text-shadow: 2px 2px 4px #000000;
-}
-
-footer {
-  width: 100%; 
-  padding: 20px;
 }
