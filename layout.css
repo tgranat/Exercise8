@@ -1,5 +1,5 @@
 .kaffePartyHeader {
-  height: 150px;  
+  height: 200px;  
   background: url("images/coffee.jpg") no-repeat; 
   background-size: cover;
   font-family: 'Caveat';
@@ -12,4 +12,3 @@
 .kaffeBackground {
   background-color: #ffeac8;
 }
-
