@@ -2,6 +2,9 @@
   height: 200px;  
   background: url("images/coffee.jpg") no-repeat; 
   background-size: cover;
+}
+
+.kaffeFont {
   font-family: 'Caveat';
   font-size: 100px;
   color: white;
